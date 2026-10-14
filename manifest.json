@@ -1,17 +1,17 @@
 {
  "name": "闪乱神乐 少女们的证明 汉化补丁",
- "version": "1.8",
+ "version": "1.9",
  "files": [
   {
    "rel": "text\\text_unicode.cat",
    "part": "text",
    "orig_md5": "d87881734aa4243b89789981c2d346e8",
    "orig_size": 184064,
-   "new_md5": "d1bc6a47fc1128becb193b61a9f7046d",
+   "new_md5": "b5c387cb47c37d42cd83eec2e0a69a0e",
    "new_size": 103776,
    "mode": "full",
    "data": "data\\text__text_unicode.cat",
-   "data_md5": "d1bc6a47fc1128becb193b61a9f7046d"
+   "data_md5": "b5c387cb47c37d42cd83eec2e0a69a0e"
   },
   {
    "rel": "text\\JimakuData.cat",
